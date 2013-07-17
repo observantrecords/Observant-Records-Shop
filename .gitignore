@@ -1,6 +1,7 @@
 .htaccess
 uploads/*
 database.php
+environment.php
 config.php
 gocart.php
 *.bak

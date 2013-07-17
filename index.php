@@ -27,7 +27,7 @@ if(!file_exists(dirname($_SERVER['SCRIPT_FILENAME']).'/gocart/config/gocart.php'
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	require_once '../../vigilantmedia.com/vigilante/includes/env.php';
+	require_once dirname($_SERVER['SCRIPT_FILENAME']).'/gocart/config/environment.php';
 	//define('ENVIRONMENT', 'development');
 /*
  *---------------------------------------------------------------
