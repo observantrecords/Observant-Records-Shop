@@ -5,6 +5,7 @@ environment.php
 config.php
 gocart.php
 *.bak
+gocart/themes/observantrecords
 
 # OS generated files #
 ######################
